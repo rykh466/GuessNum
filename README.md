@@ -41,7 +41,7 @@ number-guessing-game/
 
 # 🚀 Live Demo
 
-🔗 https://currexc.netlify.app/
+🔗 https://findnumgame.netlify.app/
 
 # How to Run
 
